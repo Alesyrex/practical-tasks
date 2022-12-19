@@ -1,6 +1,4 @@
-package com.walking.lesson25_string.Task1;
-
-import com.walking.lesson25_string.Task1.PrintFigure;
+package com.walking.lesson25_string.task1;
 
 /**
  * @author Alexandr Korovkin

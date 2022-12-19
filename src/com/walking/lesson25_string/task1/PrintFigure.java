@@ -1,4 +1,4 @@
-package com.walking.lesson25_string.Task1;
+package com.walking.lesson25_string.task1;
 
 /**
  * @author Alexandr Korovkin
