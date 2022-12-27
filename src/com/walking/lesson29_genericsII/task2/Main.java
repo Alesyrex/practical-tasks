@@ -1,4 +1,4 @@
-package com.walking.lesson28_genericsII.task2;
+package com.walking.lesson29_genericsII.task2;
 
 /**
  * @author Alexandr Korovkin
